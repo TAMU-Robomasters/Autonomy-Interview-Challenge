@@ -17,6 +17,11 @@ uv run main.py
 
 **Write all code in main.py**
 
+### Challenge 0:
+Open interview_video.mp4 in openCV.
+
+---
+
 ### Challenge 1:
 Identify red LEDs in the video. Draw rotated bounding boxes around the red LEDs.
 
