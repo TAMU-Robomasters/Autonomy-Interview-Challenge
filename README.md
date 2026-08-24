@@ -21,7 +21,7 @@ Identify red LEDs in the video. Draw rotated bounding boxes around the red LEDs.
 ---
 
 ### Challenge 2:
-Use the bounding boxes from the previous challenge to find a position to the center of panel. Use the PnP.py sample file for the camera intrinsics. Panel dimensions are included in the file. Print the position
+Use the bounding boxes from the previous challenge to find a position to the center of panel. Use the PnP.py sample file for the camera intrinsics. Panel dimensions are included in the file. Print the position.
 
 ---
 ### Challenge 3:
