@@ -5,6 +5,8 @@
 ---
 If you don't have UV follow instructions: https://docs.astral.sh/uv/getting-started/installation/
 
+If you are on windows you may also need to turn off smart app control
+
 
 To run code do:
 
