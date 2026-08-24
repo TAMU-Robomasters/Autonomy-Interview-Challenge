@@ -1,3 +1,4 @@
+import cv2
 def main():
     print("Hello from autonomy-interview-challenge!")
 
