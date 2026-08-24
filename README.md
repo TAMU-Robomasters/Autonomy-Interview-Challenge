@@ -27,6 +27,14 @@ Identify red LEDs in the video. Draw rotated bounding boxes around the red LEDs.
 
 Tutorial - https://learnopencv.com/read-write-and-display-a-video-using-opencv-cpp-python/
 
+Hint - https://www.geeksforgeeks.org/python/splitting-and-merging-channels-with-python-opencv/
+
+Suggested Steps:
+- Show a video of extracted red channel
+- Threshold red channel for the lights
+- contour binarized image
+- apply rotated rectangle to contours
+
 ---
 
 ### Challenge 2:
