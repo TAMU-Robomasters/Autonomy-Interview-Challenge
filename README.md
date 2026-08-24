@@ -25,6 +25,8 @@ Open interview_video.mp4 in openCV.
 ### Challenge 1:
 Identify red LEDs in the video. Draw rotated bounding boxes around the red LEDs.
 
+Tutorial - https://learnopencv.com/read-write-and-display-a-video-using-opencv-cpp-python/
+
 ---
 
 ### Challenge 2:
