@@ -17,13 +17,13 @@ uv run main.py
 
 **Write all code in main.py**
 
-### Challenge 0:
+### Challenge 0 (required):
 Open interview_video.mp4 in openCV.
 Tutorial - https://learnopencv.com/read-write-and-display-a-video-using-opencv-cpp-python/
 
 ---
 
-### Challenge 1:
+### Challenge 1 (required):
 Identify red LEDs in the video. Draw rotated bounding boxes around the red LEDs.
 
 Hint - https://www.geeksforgeeks.org/python/splitting-and-merging-channels-with-python-opencv/
@@ -38,7 +38,7 @@ There are a couple of ways to remove small bits of noise, I'll let you figure th
 
 ---
 
-### Challenge 2 (required):
+### Challenge 2 (Required if Autonomy and not embedded):
 Use the bounding boxes from the previous challenge to find a position to the center of panel. PnP.py sample file contains an example of how to get the camera intrinsics, **DO NOT EDIT or SUBMIT this file**. Panel dimensions are included in the file. Print the position. A tutorial can be found here https://medium.com/@abdulhaq.ah/what-is-solvepnp-and-how-does-it-work-d9ac70823724
 
 You may see strange values for X and Y positions, that is ok. Keep all of your units in cm.
